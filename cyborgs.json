@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "name": "Nexus-8",
+      "location": "Los Angeles",
+      "weapon": "Plasma-Blaster",
+      "special_power": "Hacking",
+      "strengths": ["Enhanced strength and agility", "Superior intelligence"],
+      "weaknesses": ["Vulnerability to electromagnetic pulses"],
+      "image": "https://i.imgur.com/4rAKXkh.png"
+    },
+    {
+      "id": 2,
+      "name": "Cyborg X",
+      "location": "New York",
+      "weapon": "Laser-Sword",
+      "special_power": "Invisibility",
+      "strengths": ["Superhuman speed", "Advanced combat skills"],
+      "weaknesses": ["Limited energy supply"],
+      "image": "https://i.imgur.com/JbPVCeK.png"
+    },
+    {
+      "id": 3,
+      "name": "Bionic Woman",
+      "location": "London",
+      "weapon": "Ionic Blaster",
+      "special_power": "Telekinesis",
+      "strengths": ["Regenerative healing", "Psychic abilities"],
+      "weaknesses": ["Susceptibility to malware attacks"],
+      "image": "https://i.imgur.com/gCM2Qrf.png"
+    },
+    {
+        "id": 4,
+        "name": "Specter",
+        "location": "London",
+        "weapon": "Plasma Blades",
+        "special_power": "Phasing",
+        "strengths": ["Invisibility", "Phasing through solid objects"],
+        "weaknesses": ["Vulnerability to EMPs", "Energy consumption"],
+        "image": "https://i.imgur.com/mj12eRn.png"
+      },
+      {
+        "id": 5,
+        "name": "Terra-9",
+        "location": "Sydney",
+        "weapon": "Earthquake Hammer",
+        "special_power": "Geokinesis",
+        "strengths": ["Control over earth and rock", "Resistance to physical attacks"],
+        "weaknesses": ["Dependence on a solid surface", "Susceptibility to EMPs"],
+        "image": "https://i.imgur.com/nPH6geZ.png"
+      },
+      {
+        "id": 6,
+        "name": "Crimson",
+        "location": "Paris",
+        "weapon": "Plasma Rifle",
+        "special_power": "Pyrokinesis",
+        "strengths": ["Control over fire and heat", "Resistance to high temperatures"],
+        "weaknesses": ["Limited energy reserves", "Vulnerability to water"],
+        "image": "https://i.imgur.com/7buoYon.png"
+      },
+      {
+        "id": 7,
+        "name": "Zenith",
+        "location": "Dubai",
+        "weapon": "Plasma Cannon",
+        "special_power": "Energy Manipulation",
+        "strengths": ["Ability to absorb and redirect energy", "Flight"],
+        "weaknesses": ["Limited energy storage capacity", "Susceptibility to EMPs"],
+        "image": "https://i.imgur.com/fNu5y60.png"
+      },
+      {
+        "id": 8,
+        "name": "Silver Fang",
+        "location": "Moscow",
+        "weapon": "Silver Blades",
+        "special_power": "Enhanced Senses",
+        "strengths": ["Superhuman senses", "Agility and speed"],
+        "weaknesses": ["Vulnerability to EMPs", "Silver allergies"],
+        "image": "https://i.imgur.com/wz8inrx.png"
+      },
+      {
+        "id": 9,
+        "name": "Neon Knight",
+        "location": "Las Vegas",
+        "weapon": "Neon Blades",
+        "special_power": "Light Manipulation",
+        "strengths": ["Control over light and shadows", "Intangibility"],
+        "weaknesses": ["Limited energy reserves", "Vulnerability to darkness"],
+        "image": "https://i.imgur.com/egpbJG1.png"
+      },
+      {
+        "id": 10,
+        "name": "Chaos",
+        "location": "Mumbai",
+        "weapon": "Chaos Blades",
+        "special_power": "Reality Warping",
+        "strengths": ["Ability to manipulate reality", "Invisibility"],
+        "weaknesses": ["Limited control over powers", "Vulnerability to EMPs"],
+        "image": "https://i.imgur.com/qrARTGX.png"
+      },
+      {
+        "id": 11,
+        "name": "Omega-9",
+        "location": "Hong Kong",
+        "weapon": "Omega Cannon",
+        "special_power": "Gravity Manipulation",
+        "strengths": ["Control over gravity", "Flight"],
+        "weaknesses": ["Limited energy reserves", "Vulnerability to EMPs"],
+        "image": "https://i.imgur.com/zL5R03O.png"
+      },
+      {
+        "id": 12,
+        "name": "Blaze",
+        "location": "Rio de Janeiro",
+        "weapon": "Flame Thrower",
+        "special_power": "Pyrokinesis",
+        "strengths": ["Control over fire and heat", "Resistance to high temperatures"],
+        "weaknesses": ["Limited energy reserves", "Vulnerability to water"],
+        "image": "https://i.imgur.com/pAZrVOV.png"
+      },
+      {
+        "id": 13,
+        "name": "Stormchaser",
+        "location": "Seattle",
+        "weapon": "Storm Hammer",
+        "special_power": "Aerokinesis",
+        "strengths": ["Control over wind and air", "Flight"],
+        "weaknesses": ["Susceptibility to EMPs", "Limited control over powers"],
+        "image": "https://i.imgur.com/aEIEH3X.png"
+      },
+      {
+        "id": 14,
+        "name": "Titanium",
+        "location": "Berlin",
+        "weapon": "Titanium Blades",
+        "special_power": "Superhuman Strength",
+        "strengths": ["Unrivaled strength and durability", "Resistance to physical attacks"],
+        "weaknesses": ["Vulnerability to EMPs", "Limited mobility"],
+        "image": "https://i.imgur.com/IuH1igM.png"
+      },
+      {
+        "id": 15,
+        "name": "Nebula",
+        "location": "Paris",
+        "weapon": "Nebula Blaster",
+        "special_power": "Teleportation",
+        "strengths": ["Ability to teleport short distances", "Intangibility"],
+        "weaknesses": ["Limited range of teleportation", "Vulnerability to EMPs"],
+        "image": "https://i.imgur.com/daHurZl.png"
+      }
+  ]
+  
